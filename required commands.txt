@@ -1,0 +1,7 @@
+npx create-react-app farm-equipment-rental
+
+cd farm-equipment-rental
+
+npm install styled-components
+
+npm start
